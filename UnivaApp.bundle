@@ -1,0 +1,17 @@
+<Bundle name="UnivaApp" version="1.0" system="false">
+  <status>UNINSTALLED</status>
+  <owner>info@liquidlabs.co.uk</owner>
+  <services>
+
+	
+	   <Service>
+	      	<name>UNIVA_METRICS_EXTRACTOR</name>
+			<resourceSelection>Hostname contains Master</resourceSelection>
+	      	<fork>false</fork>
+	      	<background>true</background>
+			<instanceCount>-1</instanceCount>
+			<pauseSeconds>15</pauseSeconds>
+	      	<script>bin/blah</script>
+ 	   </Service>
+  </services>
+</Bundle>

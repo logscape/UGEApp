@@ -50,10 +50,10 @@ This app breaks up the main Univa reporting file into its component parts, here 
 
 # Screenshots 
 
- ![](Assets/screenjabs/all_jobs.png)
- ![](Assets/screenjabs/finished_jobs.png)
- ![](Assets/screenjabs/grid_activity.png)
- ![](Assets/screenjabs/home.png)
- ![](Assets/screenjabs/node_metrics.png)
- ![](Assets/screenjabs/util.png)
+ ![](Assets/screengrabs/all_jobs.png)
+ ![](Assets/screengrabs/finished_jobs.png)
+ ![](Assets/screengrabs/grid_activity.png)
+ ![](Assets/screengrabs/home.png)
+ ![](Assets/screengrabs/node_metrics.png)
+ ![](Assets/screengrabs/util.png)
 

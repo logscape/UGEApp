@@ -55,5 +55,5 @@ This app breaks up the main Univa reporting file into its component parts, here 
  ![](Assets/screenjabs/grid_activity.png)
  ![](Assets/screenjabs/home.png)
  ![](Assets/screenjabs/node_metrics.png)
-  ![](Assets/screenjabs/util.png)
+ ![](Assets/screenjabs/util.png)
 

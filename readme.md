@@ -1,7 +1,8 @@
 #########################################################################
 # Univa Grid Engine App
 # For additional inquiries please contact support@logscape.com
-# Download it here
+# Download it [Here](https://github.com/logscape/UGEApp/blob/master/Dist/UGEApp-1.0.zip?raw=true)
+# And the Override properties [Here](https://github.com/logscape/UGEApp/raw/master/Dist/UGEApp-1.0-override.properties)
 #########################################################################
 
 # Introduction

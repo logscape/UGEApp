@@ -2,10 +2,10 @@ class TailReader {
 
   def EOL = "\r\n"
   boolean stop = false
-  def metrics = new File("./univa_logs/metrics/stats.log")
-  def job_log = new File("./univa_logs/jobs/jobs.log")
-  def new_job = new File("./univa_logs/new_jobs/new_job.log")  
-  def other = new File("./univa_logs/acct/acct.log")
+  def metrics = new File("./deployed-bundles/UGEApp-1.0/univa_logs/metrics/stats.log")
+  def job_log = new File("./deployed-bundles/UGEApp-1.0/univa_logs/jobs/jobs.log")
+  def new_job = new File("./deployed-bundles/UGEApp-1.0/univa_logs/new_jobs/new_job.log")  
+  def other = new File("./deployed-bundles/UGEApp-1.0/univa_logs/acct/acct.log")
 
   public void stop () {
     stop = true
@@ -63,5 +63,6 @@ class TailReader {
     reader.tail(reporting)
   } else {
     def errorFile = new File("./error.log")
-    errorFile.append("We couldn't find " + reporting.absolutePath)
+    errorFile.append(reporting.exists())
+    errorFile.append("We couldn't find " + reporting.absolutePath + " are you sure you provided the correct path?\n")
   }

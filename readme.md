@@ -37,6 +37,8 @@ This configuration guide presumes you have already followed the Univa provided d
 2. Edit the following file: UGEApp-1.0-override.properties
 	You need to provide the full of relative path to your reporting file as well as change the resourceSelection to be appropriate for your environments qmaster hostname.
 
+3. Once the UnivaApp is loaded into Logscape modify the univa-faults datasource to point to $UNIVA_CELL/faulty_jobs/** directory
+
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
 
-# Univa Grid Engine App
+# Univa® Grid Engine™ App
 For additional inquiries please contact support@logscape.com
 
 Download it [Here](https://github.com/logscape/UGEApp/blob/master/Dist/UGEApp-1.0.zip?raw=true)
@@ -9,7 +9,7 @@ And the Override properties [Here](https://github.com/logscape/UGEApp/raw/master
 -----------------------------------------------------------------------
 
 # Introduction
-Univa Grid Engine App 1.0 is designed to provide monitoring for Grid Installations version 8.2.1 (or greater)
+Univa® Grid Engine™ App 1.0 is designed to provide monitoring for Grid Installations version 8.2.1 (or greater)
 
 The App makes use of a properly configured reporting file in order to determine statistics about your grid, your reporting file can be found in $UNIVA_HOME/$UNIVA_CELL/common/reporting
 

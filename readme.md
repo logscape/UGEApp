@@ -81,3 +81,6 @@ This app breaks up the main Univa reporting file into its component parts, here 
  ------------------------------------------------------------------------
 
  ![](Assets/screengrabs/qeues.png)
+ 
+ 
+ Univa is a registered trademark of Univa Corporation. Grid Engine is a trademark of Univa Corporation.
